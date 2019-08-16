@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestDaltonico</string>
+    <string name="cancelar">cancel</string>
+    <string name="faca_teste">Do the test!</string>
+    <string name="o_que_e">"Which is? "</string>
+    <string name="ok">ok</string>
+    <string name="resultado">Result</string>
+    <string name="suas_respostas">Your answers</string>
+    <string name="teste_1">test 1</string>
+    <string name="teste_2">test 2</string>
+    <string name="teste_3">test 3</string>
+    <string name="textoBase">Color blindness, also known as dyschromatopsia or yschromopsia, is a disorder of the visual
+        perception haracterized by the inability to differentiate all or some colors, manifesting many sometimes because
+        of the difficulty in distinguishing green from red.
+    </string>
+    <string name="verificar">Check</string>
+</resources>
